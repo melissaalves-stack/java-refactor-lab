@@ -1,4 +1,4 @@
-# Java Design Practice
+# Java Refactor Lab
 
 Laboratório pessoal de Java com foco em boas práticas de design orientado a objetos.  
 Cada projeto parte de um código funcional mas mal estruturado e o evolui aplicando um conjunto específico de conceitos — com comentários explicando cada decisão.
